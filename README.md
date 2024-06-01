@@ -13,7 +13,7 @@ This tutorial will show you:
 
 
 <p align = "center">
-We are using labelme (<a href="https://github.com/wkentaro/labelme">https://github.com/wkentaro/labelme</a>) polygon annotation to label the container dolphins in the images.
+We are using labelme (<a href="https://github.com/wkentaro/labelme">https://github.com/wkentaro/labelme</a>) polygon annotation to label the dolphins in the images.
 </p>
 
 ## Data labeling

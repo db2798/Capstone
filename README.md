@@ -10,7 +10,6 @@ This tutorial will show you:
 2. How to configure and set up training for rotated bounding box detection using Detectron2
 3. How to visualize predictions and labels
 
-![Labelme polygon annotations](https://user-images.githubusercontent.com/4254623/187641126-aeb6d5d6-849f-4a14-85ca-07358a0dab31.png)
 
 
 <p align = "center">

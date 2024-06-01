@@ -13,7 +13,7 @@ This tutorial will show you:
 
 
 <p align = "center">
-We are using labelme (<a href="https://github.com/wkentaro/labelme">https://github.com/wkentaro/labelme</a>) polygon annotation to label the container ships in the images.
+We are using labelme (<a href="https://github.com/wkentaro/labelme">https://github.com/wkentaro/labelme</a>) polygon annotation to label the container dolphins in the images.
 </p>
 
 ## Data labeling
@@ -38,7 +38,7 @@ This is an example of a json file that is produced for each image (in this case 
   "flags": {},
   "shapes": [
     {
-      "label": "ship",
+      "label": "dolphin",
       "points": [
         [239.0990099009901, 420.2970297029703],
         [423.25742574257424, 338.1188118811881],

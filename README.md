@@ -74,7 +74,6 @@ Install rest of the dependencies with `pip install -r requirements.txt`.
 
 ### Test the installation and visualize the dataset
 
-![Detectron2 rotated bounding boxe](https://user-images.githubusercontent.com/4254623/187641496-66eeb57a-140c-46ae-9063-73cd019d04b8.png)
 
 
 <p align = "center">
@@ -89,7 +88,6 @@ To run the training, run `python train_rotated_bbox.py <path-to-dataset> --num-g
 
 ## Predictions
 
-![Detectron2 predictions](https://user-images.githubusercontent.com/4254623/187641601-b6df96b6-167f-43d4-ab48-300939488f04.png)
 
 <p align = "center">
 Predictions from the trained model.
